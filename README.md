@@ -3,6 +3,7 @@
 ## The detailed description of Census variables can be found: https://github.com/azh2/Social-Vulnerability-R and https://api.census.gov/data.html  
 ## The list of the 15 CDC Social Vulnerability Index factors are as follow:
 ### Socail Vulnerability Index Factors:
+<img src="https://github.com/Wenhuan2516/SatelliteImageProcessing/blob/main/sate1.png" alt="step" title="step">
 ### Factor 1:
 ### Factor 2. Percent of Population Below Poverty Level: (C17002_002E+C17002_003E)/C17002_001E:
 ### Factor 3.Percent of Population 25+ with Less than a 12th Grade Education: (B15002_003E,B15002_004E,B15002_005E,B15002_003E,B15002_006E,B15002_007E,B15002_008E,B15002_009E,B15002_010E,B15002_020E,B15002_021E,B15002_022E,B15002_023E,B15002_024E,B15002_025E,B15002_026E,B15002_027E)/B15003_001E:
