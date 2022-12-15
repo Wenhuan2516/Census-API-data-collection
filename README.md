@@ -1,5 +1,6 @@
 # Census-API-data-collection
 ## This is collecting the 15 CDC social vulnerability Index factors from Census API from 2010 to 2020 by using data scraping technology.
+## The detailed description of Census variables can be found: https://github.com/azh2/Social-Vulnerability-R and https://api.census.gov/data.html  
 ## The list of the 15 CDC Social Vulnerability Index factors are as follow:
 ### Socail Vulnerability Index Factors:
 ### Factor 1:
